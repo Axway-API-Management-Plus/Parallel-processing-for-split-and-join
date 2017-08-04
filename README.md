@@ -32,7 +32,7 @@ For
 
 ## Contributing
 
-Please read [Contributing.md] (https://github.com/Axway-API-Management/Common/blob/master/Contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [Contributing.md](https://github.com/Axway-API-Management-Plus/Common/blob/master/Contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Team
 
@@ -41,4 +41,4 @@ Please read [Contributing.md] (https://github.com/Axway-API-Management/Common/bl
 [Axwaylogo]: https://github.com/Axway-API-Management/Common/blob/master/img/AxwayLogoSmall.png  "Axway logo"
 
 ## License
-Apache License 2.0 (refer to document [license] (/LICENSE))
+[Apache License 2.0](/LICENSE)
